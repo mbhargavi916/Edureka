@@ -4,4 +4,6 @@ Git commands
 2.Git add
 3.Git Commit
 4.Git status 
-5.Git remote
+5.Git remote 
+    command is to create remote repository use the command "git remote add origin url".
+    
