@@ -6,4 +6,6 @@ Git commands
 4.Git status 
 5.Git remote 
     command is to create remote repository use the command "git remote add origin url".
+6.git ls-file
+    it shows the list of files in the git repository.
     
