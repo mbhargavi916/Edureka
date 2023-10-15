@@ -1,0 +1,7 @@
+Today i am going to finsh 15 commands and Hands on.
+Git commands
+1.Git init
+2.Git add
+3.Git Commit
+4.Git status 
+5.Git remote
