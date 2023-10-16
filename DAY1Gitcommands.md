@@ -11,4 +11,11 @@ it shows the list of files in the git repository.
 7.git log --online
 it gives all the information of the commits 
 8. git push origin [branchname]
+before commiting to push to another branch in remote repo
+switch the branch or create branch by using the command
+9. git switch -c [branchname]
+[now any changes you made in the file if you push the command it will push to the branch that you have mentioned in the command.]
 we have made some changes in the file and want to push the changes to our remote repository on a particular branch. By using the command ‘git push,’ the local repository’s files can be synced with the remote repository on Github.
+
+10. git log
+    The “git log” command is handy when we want to examine the detailed log of every commit in our repository. By executing this command, we can view the log specific to the branch we are currently in. Additionally, we can use “git log -3” to display the last three logs.
